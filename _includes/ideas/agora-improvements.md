@@ -31,5 +31,5 @@ You don't have to be an expert in all these skills. Some previous experience in 
 
 #### Mentors
 
-Saumo Pal, Deepesh Pandey, Thuvarakan Tharmarajasingam, Ekaterina Lebedeva, Bruno Woltzenlogel Paleo
+Saumo Pal, Bruno Woltzenlogel Paleo
 
