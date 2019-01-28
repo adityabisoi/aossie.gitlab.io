@@ -92,6 +92,14 @@ ideas:
   title: Expanding Api with ML
   id: 10
   description: footprint-api-expanding.md
+- project: Carbon Assistant
+  title: Improving Google Assistant Action
+  id: 11
+  description: expand-google-assistant.md
+- project: Carbon Assistant
+  title: Add support for Alexa
+  id: 12
+  description: add-alexa.md
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
