@@ -7,7 +7,7 @@
 
 Carbon Assistant is a project that aims to bring conversational access to the CarbonFootprint API. Powered by Google Assistant and Amazon's Alexa, Carbon Assistant aims to bring awareness about carbon emissions to billions of people around the world. Learning about the emissions caused by the things around you has never been so seamless and indulging.
 
-This project idea aims to bring up Alexa Skill for Project CarbonFootprint. The intention is bring it inline with the Google Assistant counterpart. 
+This project idea aims to bring up Alexa Skill for Project CarbonFootprint. The intention is to bring it inline with the Google Assistant counterpart. 
 
 Following features need to be available:
 
