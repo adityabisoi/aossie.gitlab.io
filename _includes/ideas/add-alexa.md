@@ -13,7 +13,7 @@ Following features need to be available:
 
 1. Support for all categories of CarbonFootprint API - Appliances, Flights, Trains, Fuel, Poultry, Vehicles, Electricity, Agriculture, Food, Sector, Land.
 
-2. The skill needs to be compatible across both non-screen and screen form factors. That meansit should be usable on Alexa speakers (with no screen) such as Echo dot and Alexa devices with screen such as Echo Show. The simulator provided by Amazon allows to test and simulate both devices.
+2. The skill needs to be compatible across both non-screen and screen form factors. That means it should be usable on Alexa speakers (with no screen) such as Echo dot and Alexa devices with screen such as Echo Show. The simulator provided by Amazon allows to test and simulate both devices.
 
 3. Session management support for following categories - Appliances, Flights, Trains and Vehicles. The experience should be identical to the Google Assistant Action counterpart.
 
