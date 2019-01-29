@@ -36,6 +36,10 @@ Candidates are required to demonstrate that they are able to deploy the existing
 
 A fully functional and well tested v2 of the CarbonFootprint Action with above 4 requirements completed, well-tested and merged into the master branch of the project.
 
+#### Note:
+
+Additional features & improvements to the project can also be proposed and will serve as an important criterion for selection.
+
 #### Mentors
 
 Varun Chitre

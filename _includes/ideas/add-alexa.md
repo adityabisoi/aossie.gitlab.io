@@ -31,6 +31,10 @@ For this project, we are looking for a student:
 
 A fully functional Alexa skill ready for release with all above requirements met, tested and merged into the master branch of the project.
 
+#### Note:
+
+Additional features & improvements to the project can also be proposed and will serve as an important criterion for selection.
+
 #### Mentors
 
 Varun Chitre
