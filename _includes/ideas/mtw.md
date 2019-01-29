@@ -1,27 +1,32 @@
-
 ## Mind The Word
 
-### Idea: Making Mind the Word robust, user-friendly and production-ready
+### Idea: Improving the current Mind The Word extension.
 
 #### Description
 
-Mind The Word (MTW) is a browser extension that helps users to learn vocabulary of new languages. When visiting a webpage written in the user's native language, MTW will randomly translate a specified percentage of words into the language that the user wants to learn. By seeing the new words in context, the user is able to infer and memorize their meanings.
+Mind The Word has gone a lot of changes in the previous years and we hope to continue the trend. This task involves improving the current extension, including :
 
-MTW was originally implemented around 2011, being the first extension of its kind.
-Nowadays, MTW is suffering competition from comercial alternatives, and we need help to keep MTW competitive. MTW needs more user-firendly interface, simplified options, easy-to-follow onboarding, translations without needing API keys, robustness (making sure that MTW is working consistently on all webpages) and efficiency (speeding-up the translation and the replacement of words by translated words). In a nutshell, we need to transform MTW into a production-ready professional-looking extension.
+1. **Better Quizzing Feature :** The Quizzing feature can be improved by adding new games. A simple example that has not been implemented is allowing the user to guess the word's meaning from its pronunciation.  
+Also adding gaming elements, like streaks or points, would keep the learning process interesting  
+  
+2. **Unit Testing for robust development :** If implemented properly, this feature would test the extension on specified web-pages for checking the code quality. In simpler terms, after every commit the developer can check whether the new code is translating the right amount of words in the specified time or not.  
+This would be greatly beneficial for both developers and maintainers.  
+  
+3. **Improved UI/UX feature :** The extension in many ways still feels unrefined. The UX of the extension has been designed keeping the developer in mind and not the user.  
+A number of things can be done to improve this including and not limited to personalized statistics to the user, a Momentum-like New Page for increased user interaction and a beautiful User Interface.
+
+**Apart from this, the candidate is expected to propose improvements/feature of his/her own. This is a critically important criterion for selection.**
 
 #### Requirements
 
-For this project, we are looking for a student with:
+ - Good knowledge about Javascript. 
+ - Basic idea of Web-Design and Dev-Ops. 
+ - The workflow of Mind The Word extension (critical).
 
-- excellent knowledge of Javascript, HTML, CSS.
-
-- excellent front-end skills.
-
-- ability to write clean code.
-
+#### Outcome
+ An improved version of the current extension.
 
 #### Mentors
 
-Thuvarakan Tharmajasingam, Rohan Katyal, Bruno Woltzenlogel Paleo
+Chirag Vashist, Thuvarakan Tharmajasingam, Bruno Woltzenlogel Paleo
 
