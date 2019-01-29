@@ -52,10 +52,10 @@ people:
 
 # Ideas
 ideas:
-- project: Agora
-  title: Front-End & REST Api
+- project: Agora Web
+  title: Improve Security and Rebuild Frontend
   id: 1
-  description: agora-web.md
+  description: agora-web-security-frontend.md
 - project: Carbon Footprint
   title: Mobile App
   id: 2
@@ -92,6 +92,14 @@ ideas:
   title: Expanding Api with ML
   id: 10
   description: footprint-api-expanding.md
+- project: Agora Web
+  title: Android Application
+  id: 11
+  description: agora-web-android.md
+- project: Agora Web
+  title: Slack Application
+  id: 12
+  description: agora-web-slack.md
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
