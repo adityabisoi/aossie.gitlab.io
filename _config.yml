@@ -57,7 +57,7 @@ ideas:
   id: 1
   description: agora-improvements.md
 - project: Carbon Footprint
-  title: Mobile App
+  title: Improving UI and releasing IOS app
   id: 2
   description: footprint-mobile.md
 - project: Carbon Footprint API
