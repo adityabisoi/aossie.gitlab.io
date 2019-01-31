@@ -52,12 +52,12 @@ people:
 
 # Ideas
 ideas:
-- project: Agora Web
-  title: Improve Security and Rebuild Frontend
+- project: Agora
+  title: Improvements for Agora library
   id: 1
-  description: agora-web-security-frontend.md
+  description: agora-improvements.md
 - project: Carbon Footprint
-  title: Mobile App
+  title: Improving UI and releasing IOS app
   id: 2
   description: footprint-mobile.md
 - project: Carbon Footprint API
@@ -65,42 +65,65 @@ ideas:
   id: 3
   description: footprint-api-improvement.md
 - project: Carbon Footprint
-  title: Trains Emission Calculation
+  title: Cruise Emission Calculation and Improving DevOps
   id: 4
-  description: footprint-trains.md
+  description: footprint-cruise-devOps.md
 - project: Computational Philosophy
   title: Library for Philosophical Logic
   id: 5
   description: philosophy.md
 - project: Mind The Word
-  title: Making Mind the Word robust, user-friendly and production-ready
+  title: Improving the current Mind The Word extension
   id: 6
   description: mtw.md
 - project: Scavenger
   title: Search Improvements
   id: 7
   description: scavenger-improvements.md
-- project: Stardroid
+- project: Starcross
   title: Google Sky Maps
   id: 8
   description: stardroid.md
-- project: CrowdAlert
-  title: Mobile App
+- project: CrowdAlert-Mobile
+  title: React Native Mobile App
   id: 9
   description: crowd-alert.md
 - project: Carbon Footprint API
   title: Expanding Api with ML
   id: 10
   description: footprint-api-expanding.md
+- project: Mind The Word
+  title: Porting the Mind The Word extension on different platforms
+  id: 11
+  description: mtw-port.md
+- project: Social Street Smart
+  title: Verifying credibility of News Article through AI
+  id: 12
+  description: social-street-1.md
+- project: Social Street Smart
+  title: Curbing toxic/abusive language and Click-bait News through AI
+  id: 13
+  description: social-street-2.md
+- project: Carbon Assistant
+  title: Improving Google Assistant Action
+  id: 14
+  description: expand-google-assistant.md
+- project: Carbon Assistant
+  title: Add support for Alexa
+  id: 15
+  description: add-alexa.md
+- project: Agora Web
+  title: Improve Security and Rebuild Frontend
+  id: 16
+  description: agora-web-security-frontend.md
 - project: Agora Web
   title: Android Application
-  id: 11
+  id: 17
   description: agora-web-android.md
 - project: Agora Web
   title: Slack Application
-  id: 12
+  id: 18
   description: agora-web-slack.md
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

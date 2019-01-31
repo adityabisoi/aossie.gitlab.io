@@ -13,12 +13,12 @@ This task involves improving the security and privacy of  Agora web users and fi
 #### Deliverables
 1. a) Implement all privacy concerns as described in this document  https://civs.cs.cornell.edu/sec_priv.html
 
-1. b) Users should be able to add two factor authentication as another security step for login. The system should be able to recognized and track the different devices through which the user has been able to signin with.
+1. b) Users should be able to add two factor authentication as another security step for login. The system should be able to recognize and track the different devices through which the user has been able to signin with.
 
 2. Rebuild the frontend using angular.
 
 #### Required skills.
-Web devlopment using Angular, Writing tests for angular applications,  REST API design, Scala, Play Framework
+Web development using Angular, Writing tests for angular applications,  REST API design, Scala, Play Framework
 
 #### Mentors
 Abanda Ludovic
