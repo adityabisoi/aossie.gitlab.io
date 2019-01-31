@@ -65,9 +65,9 @@ ideas:
   id: 3
   description: footprint-api-improvement.md
 - project: Carbon Footprint
-  title: Trains Emission Calculation
+  title: Cruise Emission Calculation and Improving DevOps
   id: 4
-  description: footprint-trains.md
+  description: footprint-cruise-devOps.md
 - project: Computational Philosophy
   title: Library for Philosophical Logic
   id: 5
