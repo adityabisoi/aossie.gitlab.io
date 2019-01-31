@@ -84,8 +84,8 @@ ideas:
   title: Google Sky Maps
   id: 8
   description: stardroid.md
-- project: CrowdAlert
-  title: Mobile App
+- project: CrowdAlert-Mobile
+  title: React Native Mobile App
   id: 9
   description: crowd-alert.md
 - project: Carbon Footprint API
