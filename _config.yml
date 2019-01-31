@@ -55,7 +55,7 @@ ideas:
 - project: Agora
   title: Front-End & REST Api
   id: 1
-  description: agora-web.md
+  description: agora-improvements.md
 - project: Carbon Footprint
   title: Mobile App
   id: 2
