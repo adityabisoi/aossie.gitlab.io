@@ -1,7 +1,7 @@
 
 ## Computational Philosophy
 
-### Idea: Library for Philosophical Logic
+### Idea: Interactive Theorem Proving in Metaphysics
 
 #### Description
 
@@ -11,10 +11,10 @@ In mathematics, interactive theorem provers are supported by large libraries of 
 
 So the idea behind this project would be to equip the Isabelle proof assistant with some basic philosophical logic, which could be used over and over in applications to various arguments. Some possibilities, in rough order of difficulty, are:
 1.	Mereology – the axiomatic theory of the part/whole relation
-2.	Mereotopology – the extension of mereology to boundaries and connections
+2.	Topics in mereology - atoms, boundaries, and holes
 3.	Counterfactual conditionals – building on existing work in modal logic
 4.	Tense logic – also building on existing work in modal logic
-5.	Tensed Mereology – theories combining (1) and (4)
+5.	Tensed mereology – theories combining (1) and (4)
 These are suggestions – ideas to work on other areas of logic closely related to metaphysics are very welcome.
 
 If you are interested in this project idea, please choose a (possibly improper) subset of the possibilities above and provide a realistic timeline in your proposal. Depending on how many slots we receive from Google, we might be able to accept more than one student, to work on disjoint subsets.
