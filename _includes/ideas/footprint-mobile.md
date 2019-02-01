@@ -10,9 +10,9 @@ In 2018, we had GSoC Students who improved the overall UI, fixed major bugs and 
 
 There is an [ongoing repository](https://gitlab.com/aossie/CarbonFootprint-Mobile/) which holds the code and the various issues being faced in the release. The new features we are expecting this year:
 
-**1. Showing heat on the map**: Like the Google maps show up the routes and the respective
+**1. Showing heat on the map**: Like the Google maps show the routes and the respective
 traffic, a similar feature can be added in the app that would help identify the locations of
-high CO2 emissions and savage.
+high CO2 emissions and savings.
 
 **2. Releasing the IOS app and modifying the UI**: Currently we have just released the beta
 version for the android build and the bugs are being fixed. This time the main focus will
@@ -20,7 +20,7 @@ be on the proper release and the IOS build.
 
 **3. Leaderboards**: Since the app already has a friend section to connect with the friends
 within the app, a leaderboard can be added there to identify the users with the most CO2
-savage, this may be helpful in generating interest for the users towards the app.
+savings, this may be helpful in generating interest for the users towards the app.
 
 #### Requirements
 
