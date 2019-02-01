@@ -112,7 +112,18 @@ ideas:
   title: Add support for Alexa
   id: 15
   description: add-alexa.md
-
+- project: Agora Web
+  title: Improve Security and Rebuild Frontend
+  id: 16
+  description: agora-web-security-frontend.md
+- project: Agora Web
+  title: Android Application
+  id: 17
+  description: agora-web-android.md
+- project: Agora Web
+  title: Slack Application
+  id: 18
+  description: agora-web-slack.md
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
