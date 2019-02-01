@@ -367,6 +367,12 @@ section h3.section-subheading {
     max-width: 400px;
 }
 
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
+
 #ideas .ideas-item .ideas-link .ideas-hover {
     position: absolute;
     width: 100%;
