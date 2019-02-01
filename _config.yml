@@ -87,7 +87,7 @@ ideas:
 - project: CrowdAlert-Mobile
   title: React Native Mobile App
   id: 9
-  description: crowd-alert.md
+  description: crowd-alert-mobile.md
 - project: Carbon Footprint API
   title: Expanding Api with ML
   id: 10
