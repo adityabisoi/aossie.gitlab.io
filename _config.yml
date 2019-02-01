@@ -124,7 +124,12 @@ ideas:
   title: Slack Application
   id: 18
   description: agora-web-slack.md
+- project: CrowdAlert Web
+  title: React based cross-platform PWA
+  id: 19
+  description: crowdalert-web.md
 
+  
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 #  - title: twitter
