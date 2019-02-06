@@ -60,10 +60,10 @@ ideas:
   title: Improving UI and releasing IOS app
   id: 2
   description: footprint-mobile.md
-- project: Carbon Footprint API
-  title: Improving API
-  id: 3
-  description: footprint-api-improvement.md
+# - project: Carbon Footprint API
+#   title: Improving API
+#   id: 3
+#   description: footprint-api-improvement.md
 - project: Carbon Footprint
   title: Cruise Emission Calculation and Improving DevOps
   id: 4
@@ -84,10 +84,10 @@ ideas:
   title: React Native Mobile App
   id: 8
   description: crowd-alert-mobile.md
-- project: Carbon Footprint API
-  title: Expanding Api with ML
-  id: 9
-  description: footprint-api-expanding.md
+# - project: Carbon Footprint API
+#   title: Expanding Api with ML
+#   id: 9
+#   description: footprint-api-expanding.md
 - project: Mind The Word
   title: Porting the Mind The Word extension on different platforms
   id: 10
@@ -128,18 +128,12 @@ ideas:
   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-#  - title: twitter
-#    url: http://twitter.com/jekyllrb
-#  - title: facebook
-#    url:
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket
-#    url: http://bitbucket.org/jekyll
+  - title: twitter
+    url: https://twitter.com/aossie_org
   - title: github
     url: http://www.gitlab.com/aossie
   - title: google-plus
-    url: https://groups.google.com/forum/#!forum/aossie-gsoc-2017
+    url: https://gitter.im/AOSSIE/Lobby
 
 # Postal address (add as many lines as necessary)
 address:
