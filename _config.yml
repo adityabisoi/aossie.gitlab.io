@@ -76,57 +76,53 @@ ideas:
   title: Improving the current Mind The Word extension
   id: 6
   description: mtw.md
-- project: Scavenger
-  title: Search Improvements
-  id: 7
-  description: scavenger-improvements.md
 - project: Starcross
   title: Google Sky Maps
-  id: 8
+  id: 7
   description: stardroid.md
 - project: CrowdAlert-Mobile
   title: React Native Mobile App
-  id: 9
+  id: 8
   description: crowd-alert-mobile.md
 - project: Carbon Footprint API
   title: Expanding Api with ML
-  id: 10
+  id: 9
   description: footprint-api-expanding.md
 - project: Mind The Word
   title: Porting the Mind The Word extension on different platforms
-  id: 11
+  id: 10
   description: mtw-port.md
 - project: Social Street Smart
   title: Verifying credibility of News Article through AI
-  id: 12
+  id: 11
   description: social-street-1.md
 - project: Social Street Smart
   title: Curbing toxic/abusive language and Click-bait News through AI
-  id: 13
+  id: 12
   description: social-street-2.md
 - project: Carbon Assistant
   title: Improving Google Assistant Action
-  id: 14
+  id: 13
   description: expand-google-assistant.md
 - project: Carbon Assistant
   title: Add support for Alexa
-  id: 15
+  id: 14
   description: add-alexa.md
 - project: Agora Web
   title: Improve Security and Rebuild Frontend
-  id: 16
+  id: 15
   description: agora-web-security-frontend.md
 - project: Agora Web
   title: Android Application
-  id: 17
+  id: 16
   description: agora-web-android.md
 - project: Agora Web
   title: Slack Application
-  id: 18
+  id: 17
   description: agora-web-slack.md
 - project: CrowdAlert Web
   title: React based cross-platform PWA
-  id: 19
+  id: 18
   description: crowdalert-web.md
 
   

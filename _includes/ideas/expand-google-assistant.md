@@ -39,6 +39,7 @@ A fully functional and well tested v2 of the CarbonFootprint Action with above 4
 #### Note:
 
 Additional features & improvements to the project can also be proposed and will serve as an important criterion for selection.
+Project code can be found here: https://gitlab.com/aossie/CarbonAssistant-Function/
 
 #### Mentors
 
