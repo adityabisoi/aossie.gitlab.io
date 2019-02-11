@@ -23,3 +23,7 @@ For this project, we are looking for a student who has:
 - some astronomical and engineering temperament could be beneficial to understand the app's working and invoke enough interest to implement new features or better yet, improve existing ones.
 
 - some experience of working with mobile sensors (accelerometers, compass and gyroscopes) and rendering views on OpenGL ES. Having these skills is an asset but not essential.
+
+#### Mentor
+
+Raghav Puri
