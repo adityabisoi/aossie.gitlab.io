@@ -4,7 +4,7 @@
 
 #### Description
 
-This task involves improving the security and privacy of  Agora web users and finally rebuilding the frontent.
+This task involves improving the security and privacy of  Agora web users and finally rebuilding the frontend.
 
 1. Security improvement: Currently Agora web reveals some rather personal information about users (voters and election admins) to users. This task will consist of improving on the privacy issue and also put an accent on security issue regarding user accounts. For this there is a need of creating a security mechanism to protect Agora web users account. This new security mechanism will be based on two factor authentication (multi factor authentication). This two factor authentication together with the normal authentication can be implemented as a micro service or as a module.
 
