@@ -17,7 +17,7 @@ The existing Google Assistant Action needs to be improved with new features and 
 
 4. Fix issues with [UX] tag from https://gitlab.com/aossie/CarbonAssistant-Function/issues, These issues describe how the responses given by the Assistant Action do not follow certain UX guidelines given by Google. How those issues can be fixed is also given in the issue description.
 
-5. Add support for auto-deployment on merging any code to the master branch. The function needs to get deployed using firebase API and the agent zip needs to auto-imported using the DialogFlow v2 API.
+5. Add support for auto-deployment on merging any code to the master branch. The function needs to get deployed using firebase API and the agent zip needs to be auto-imported using the DialogFlow v2 API.
 
 
 #### Requirements
