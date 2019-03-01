@@ -60,10 +60,10 @@ ideas:
   title: Improving UI and releasing IOS app
   id: 2
   description: footprint-mobile.md
-# - project: Carbon Footprint API
-#   title: Improving API
-#   id: 3
-#   description: footprint-api-improvement.md
+- project: Carbon Footprint API
+  title: Improving API
+  id: 3
+  description: footprint-api-improvement.md
 - project: Carbon Footprint
   title: Cruise Emission Calculation and Improving DevOps
   id: 4
@@ -84,10 +84,10 @@ ideas:
   title: React Native Mobile App
   id: 8
   description: crowd-alert-mobile.md
-# - project: Carbon Footprint API
-#   title: Expanding Api with ML
-#   id: 9
-#   description: footprint-api-expanding.md
+- project: Carbon Footprint API
+  title: Expanding Api with ML
+  id: 9
+  description: footprint-api-expanding.md
 - project: Mind The Word
   title: Porting the Mind The Word extension on different platforms
   id: 10
