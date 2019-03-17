@@ -37,7 +37,7 @@ Additional features & improvements to the project can also be proposed and will 
 
 #### Mentors
 
-Varun Chitre
+Varun Chitre, Naveen
 
 
 
