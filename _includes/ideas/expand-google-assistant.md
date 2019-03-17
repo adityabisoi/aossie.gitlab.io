@@ -45,7 +45,7 @@ Project code can be found here: https://gitlab.com/aossie/CarbonAssistant-Functi
 
 #### Mentors
 
-Varun Chitre
+Varun Chitre, Naveen
 
 
 
