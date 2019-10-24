@@ -73,9 +73,33 @@ ideas:
   id: 5
   description: philosophy.md
 - project: Mind The Word
-  title: Improving the current Mind The Word extension
+  title: video for adding yandex api key for translation
   id: 6
-  description: mtw.md
+  description: mtw-tutorial-yandex-keys-video.md
+- project: Mind The Word
+  title: Improve UI of the quizzing section
+  id: 7
+  description: mtw-ui-quizzing.md
+- project: Mind The Word
+  title: Fix console errors on start-up
+  id: 8
+  description: mtw-fix-console-errs.md
+- project: Mind The Word
+  title: Improve Hovercard explanation
+  id: 9
+  description: mtw-improve-hovercard-explanation.md
+- project: Mind The Word
+  title: Add necessary details to Backup and learning screen
+  id: 10
+  description: mtw-details-backup-learning.md
+- project: Mind The Word
+  title: Write a blog about features in mind the word
+  id: 11
+  description: mtw-blog.md
+- project: Mind The Word
+  title: Add video tutorials for advanced settings
+  id: 12
+  description: mtw-video-tutorials.md
 - project: Starcross
   title: Google Sky Maps
   id: 7
