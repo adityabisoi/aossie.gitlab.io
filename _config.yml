@@ -52,102 +52,6 @@ people:
 
 # Ideas
 ideas:
-- project: Agora
-  title: Improvements for Agora library
-  id: 1
-  description: agora-improvements.md
-- project: Carbon Footprint
-  title: Improving UI and releasing IOS app
-  id: 2
-  description: footprint-mobile.md
-- project: Carbon Footprint API
-  title: Improving API
-  id: 3
-  description: footprint-api-improvement.md
-- project: Carbon Footprint
-  title: Cruise Emission Calculation and Improving DevOps
-  id: 4
-  description: footprint-cruise-devOps.md
-- project: Computational Philosophy
-  title: Library for Philosophical Logic
-  id: 5
-  description: philosophy.md
-- project: Mind The Word
-  title: video for adding yandex api key for translation
-  id: 6
-  description: mtw-tutorial-yandex-keys-video.md
-- project: Mind The Word
-  title: Improve UI of the quizzing section
-  id: 7
-  description: mtw-ui-quizzing.md
-- project: Mind The Word
-  title: Fix console errors on start-up
-  id: 8
-  description: mtw-fix-console-errs.md
-- project: Mind The Word
-  title: Improve Hovercard explanation
-  id: 9
-  description: mtw-improve-hovercard-explanation.md
-- project: Mind The Word
-  title: Add necessary details to Backup and learning screen
-  id: 10
-  description: mtw-details-backup-learning.md
-- project: Mind The Word
-  title: Write a blog about features in mind the word
-  id: 11
-  description: mtw-blog.md
-- project: Mind The Word
-  title: Add video tutorials for advanced settings
-  id: 12
-  description: mtw-video-tutorials.md
-- project: Starcross
-  title: Google Sky Maps
-  id: 7
-  description: stardroid.md
-- project: CrowdAlert-Mobile
-  title: React Native Mobile App
-  id: 8
-  description: crowd-alert-mobile.md
-- project: Carbon Footprint API
-  title: Expanding Api with ML
-  id: 9
-  description: footprint-api-expanding.md
-- project: Mind The Word
-  title: Porting the Mind The Word extension on different platforms
-  id: 10
-  description: mtw-port.md
-- project: Social Street Smart
-  title: Verifying credibility of News Article through AI
-  id: 11
-  description: social-street-1.md
-- project: Social Street Smart
-  title: Curbing toxic/abusive language and Click-bait News through AI
-  id: 12
-  description: social-street-2.md
-- project: Carbon Assistant
-  title: Improving Google Assistant Action
-  id: 13
-  description: expand-google-assistant.md
-- project: Carbon Assistant
-  title: Add support for Alexa
-  id: 14
-  description: add-alexa.md
-- project: Agora Web
-  title: Improve Security and Rebuild Frontend
-  id: 15
-  description: agora-web-security-frontend.md
-- project: Agora Web
-  title: Android Application
-  id: 16
-  description: agora-web-android.md
-- project: Agora Web
-  title: Slack Application
-  id: 17
-  description: agora-web-slack.md
-- project: CrowdAlert Web
-  title: React based cross-platform PWA
-  id: 18
-  description: crowdalert-web.md
 
   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -173,3 +77,31 @@ tasks:
   title: Write a blog post about use cases of various voting algorithms
   id: 1
   description: blogpost.md
+- project: Mind The Word
+  title: video for adding yandex api key for translation
+  id: 2
+  description: mtw-tutorial-yandex-keys-video.md
+- project: Mind The Word
+  title: Improve UI of the quizzing section
+  id: 3
+  description: mtw-ui-quizzing.md
+- project: Mind The Word
+  title: Fix console errors on start-up
+  id: 4
+  description: mtw-fix-console-errs.md
+- project: Mind The Word
+  title: Improve Hovercard explanation
+  id: 5
+  description: mtw-improve-hovercard-explanation.md
+- project: Mind The Word
+  title: Add necessary details to Backup and learning screen
+  id: 6
+  description: mtw-details-backup-learning.md
+- project: Mind The Word
+  title: Write a blog about features in mind the word
+  id: 7
+  description: mtw-blog.md
+- project: Mind The Word
+  title: Add video tutorials for advanced settings
+  id: 8
+  description: mtw-video-tutorials.md
