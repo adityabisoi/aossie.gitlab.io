@@ -77,8 +77,6 @@ tasks:
   title: Write a blog post about use cases of various voting algorithms
   id: 1
   description: blogpost.md
-
-
 - project: Mind The Word
   title: video for adding yandex api key for translation
   id: 2
