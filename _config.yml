@@ -107,7 +107,18 @@ tasks:
   title: Add video tutorials for advanced settings
   id: 8
   description: mtw-video-tutorials.md
-
+- project: Social Street Smart
+  title: Improve UI to display result of Fake news on Facebook
+  id: 9
+  description: SSS_FB.md
+- project: Social Street Smart
+  title: Making pop up functional
+  id: 10
+  description: SSS_Popup.md
+- project: Social Street Smart
+  title: Add more news websites
+  id: 11
+  description: SSS_bias.md
 - project: Carbon-footprint Alexa
   title: Write a blog post for CarbonFootprint-Alexa
   id: 12
@@ -136,23 +147,7 @@ tasks:
   title: Add tree intent to Amazon Alexa Model
   id: 18
   descryption: addTreeIntent.md
-
 - project: Social Street Smart
   title: Make a youtube video or write a blog post
   id: 19
   description: SSS_Blog.md
-
-- project: Social Street Smart
-  title: Improve UI to display result of Fake news on Facebook
-  id: 20
-  description: SSS_FB.md
-
-- project: Social Street Smart
-  title: Making pop up functional
-  id: 21
-  description: SSS_Popup.md
-
-- project: Social Street Smart
-  title: Add more news websites
-  id: 22
-  description: SSS_bias.md
