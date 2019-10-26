@@ -105,3 +105,31 @@ tasks:
   title: Add video tutorials for advanced settings
   id: 8
   description: mtw-video-tutorials.md
+- project: Carbon-footprint Alexa
+  title: Write a blog post for CarbonFootprint-Alexa
+  id: 12
+  descryption: CarbonFootprintAlexaBlog.md
+- project: Carbon-footprint Alexa
+  title: Getting familiar with Amazon Alexa Development
+  id: 13
+  descryption: alexaTutorial.md
+- project: Carbon-footprint Alexa
+  title: Improve documentation of Carbon-footprint Alexa
+  id: 14
+  descryption: improveDocumentation.md
+- project: Carbon-footprint Alexa
+  title: Add some visuals to documentation related to skill usage
+  id: 15
+  descryption: addVisualsToDocumentation.md
+- project: Carbon-footprint Alexa
+  title: Adding more utterances to all the intents of Alexa skill
+  id: 16
+  descryption: addUtteranceAlexa.md
+- project: Carbon-footprint Alexa
+  title: Add more slot values to provide a better user support
+  id: 17
+  descryption: addSlotValuesAlexa.md
+- project: Carbon-footprint Alexa
+  title: Add tree intent to Amazon Alexa Model
+  id: 18
+  descryption: addTreeIntent.md
