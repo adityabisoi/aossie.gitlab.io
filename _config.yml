@@ -158,27 +158,23 @@ tasks:
   id: 21
   descryption: CarbonFootprintAlexaBlog.md
 - project: Carbon-footprint Alexa
-  title: Getting familiar with Amazon Alexa Development
-  id: 22
-  descryption: alexaTutorial.md
-- project: Carbon-footprint Alexa
   title: Improve documentation of Carbon-footprint Alexa
-  id: 23
+  id: 22
   descryption: improveDocumentation.md
 - project: Carbon-footprint Alexa
   title: Add some visuals to documentation related to skill usage
-  id: 24
+  id: 23
   descryption: addVisualsToDocumentation.md
 - project: Carbon-footprint Alexa
   title: Adding more utterances to all the intents of Alexa skill
-  id: 25
+  id: 24
   descryption: addUtteranceAlexa.md
 - project: Carbon-footprint Alexa
   title: Add more slot values to provide a better user support
-  id: 26
+  id: 25
   descryption: addSlotValuesAlexa.md
 - project: Carbon-footprint Alexa
   title: Add tree intent to Amazon Alexa Model
-  id: 27
+  id: 26
   descryption: addTreeIntent.md
 
