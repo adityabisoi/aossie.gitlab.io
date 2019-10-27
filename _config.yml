@@ -133,3 +133,24 @@ tasks:
   title: Getting familiar with Google Assistant Development
   id: 15
   description: tutorial.md
+- project: Starcross Android
+  title: Write Unit Test cases
+  id: 16
+  description: starcrossUnitTest.md
+- project: Starcross Android
+  title: Create a new logo for the app
+  id: 17
+  description: starcrossNewLogo.md
+- project: Starcross Android
+  title: Create push notification
+  id: 18
+  description: starcrossNotif.md
+- project: Starcross Android
+  title: Add sound effect
+  id: 19
+  description: starcrossSound.md
+- project: Starcross Android
+  title: Create new Gallery page
+  id: 20
+  description: starcrossGallery.md
+
