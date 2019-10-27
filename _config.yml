@@ -185,5 +185,18 @@ tasks:
   title: Getting familiar with Amazon Alexa Development.
   id: 28
   description: alexaTutorial.md
+- project: Aossie Scholar
+  title: Create a logo for Aossie Scholar
+  id: 29
+  description: scholarlogo.md
+- project: Aossie Scholar
+  title: Improve UI of homepage.
+  id: 30
+  description: popupform.md
+- project: Aossie Scholar
+  title: Propose a new metric for evaluations of scholars.
+  id: 31
+  description: newscholarmetric.md
+
 
 
