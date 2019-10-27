@@ -153,4 +153,32 @@ tasks:
   title: Create new Gallery page
   id: 20
   description: starcrossGallery.md
+- project: Carbon-footprint Alexa
+  title: Write a blog post for CarbonFootprint-Alexa
+  id: 21
+  descryption: CarbonFootprintAlexaBlog.md
+- project: Carbon-footprint Alexa
+  title: Getting familiar with Amazon Alexa Development
+  id: 22
+  descryption: alexaTutorial.md
+- project: Carbon-footprint Alexa
+  title: Improve documentation of Carbon-footprint Alexa
+  id: 23
+  descryption: improveDocumentation.md
+- project: Carbon-footprint Alexa
+  title: Add some visuals to documentation related to skill usage
+  id: 24
+  descryption: addVisualsToDocumentation.md
+- project: Carbon-footprint Alexa
+  title: Adding more utterances to all the intents of Alexa skill
+  id: 25
+  descryption: addUtteranceAlexa.md
+- project: Carbon-footprint Alexa
+  title: Add more slot values to provide a better user support
+  id: 26
+  descryption: addSlotValuesAlexa.md
+- project: Carbon-footprint Alexa
+  title: Add tree intent to Amazon Alexa Model
+  id: 27
+  descryption: addTreeIntent.md
 
