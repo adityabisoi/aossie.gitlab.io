@@ -169,5 +169,14 @@ tasks:
   title: Customized Loader
   id: 24
   description: loader.md
+- project: Agora Vote Android
+  title: Manage Landscape Layout and improve Progress Bar.
+  id: 25
+  description: landscape.md
+- project: Agora Vote Android
+  title:  Use Espresso to write concise, beautiful, and reliable Android UI tests.
+  id: 26
+  description: espresso.md
+
 
 
