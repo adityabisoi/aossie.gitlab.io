@@ -177,6 +177,13 @@ tasks:
   title:  Use Espresso to write concise, beautiful, and reliable Android UI tests.
   id: 26
   description: espresso.md
-
+- project: CarbonFootprint-Alexa
+  title: Adding more utterances to all the intents of Alexa skill.
+  id: 27
+  description: addUtteranceAlexa.md
+- project: CarbonFootprint-Alexa
+  title: Getting familiar with Amazon Alexa Development.
+  id: 28
+  description: alexaTutorial.md
 
 
