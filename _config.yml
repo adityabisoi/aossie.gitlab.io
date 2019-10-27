@@ -153,28 +153,21 @@ tasks:
   title: Create new Gallery page
   id: 20
   description: starcrossGallery.md
-- project: Carbon-footprint Alexa
-  title: Write a blog post for CarbonFootprint-Alexa
+- project: CarbonFootprint-Mobile
+  title: setup project in local and update screenshot in documentation and add script in fixes.sh
   id: 21
-  descryption: CarbonFootprintAlexaBlog.md
-- project: Carbon-footprint Alexa
-  title: Improve documentation of Carbon-footprint Alexa
+  description: fixes.md
+- project: CarbonFootprint-Mobile
+  title: eslint, prettier and stylelint enforcement
   id: 22
-  descryption: improveDocumentation.md
-- project: Carbon-footprint Alexa
-  title: Add some visuals to documentation related to skill usage
+  description: codeStandard.md
+- project: CarbonFootprint-Mobile
+  title: Dark/Night Mode
   id: 23
-  descryption: addVisualsToDocumentation.md
-- project: Carbon-footprint Alexa
-  title: Adding more utterances to all the intents of Alexa skill
+  description: night.md
+- project: CarbonFootprint-Mobile
+  title: Customized Loader
   id: 24
-  descryption: addUtteranceAlexa.md
-- project: Carbon-footprint Alexa
-  title: Add more slot values to provide a better user support
-  id: 25
-  descryption: addSlotValuesAlexa.md
-- project: Carbon-footprint Alexa
-  title: Add tree intent to Amazon Alexa Model
-  id: 26
-  descryption: addTreeIntent.md
+  description: loader.md
+
 
