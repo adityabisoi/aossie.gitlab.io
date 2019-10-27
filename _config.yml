@@ -119,5 +119,17 @@ tasks:
   description: SSS_bias.md
 - project: Social Street Smart
   title: Make a youtube video or write a blog post
-  id: 1
+  id: 12
   description: SSS_Blog.md
+- project: CarbonAssistant-Function
+  title: Adding more utterances to all the intents
+  id: 13
+  description: utterance.md
+- project: CarbonAssistant-Function
+  title: Write a blog post for CarbonAssistant-Function
+  id: 14
+  description: blog.md
+- project: CarbonAssistant-Function
+  title: Getting familiar with Google Assistant Development
+  id: 15
+  description: tutorial.md
