@@ -73,18 +73,18 @@ markdown: kramdown
 permalink: pretty
 
 tasks:
-- project: Agora
-  title: Write a blog post about use cases of various voting algorithms
+- project: Agora Vote Android
+  title:  Use Espresso to write concise, beautiful, and reliable Android UI tests.
   id: 1
-  description: blogpost.md
-- project: Mind The Word
-  title: video for adding yandex api key for translation
+  description: espresso.md
+- project: CarbonFootprint-Alexa
+  title: Adding more utterances to all the intents of Alexa skill.
   id: 2
-  description: mtw-tutorial-yandex-keys-video.md
-- project: Mind The Word
-  title: Improve UI of the quizzing section
+  description: addUtteranceAlexa.md
+- project: CarbonFootprint-Alexa
+  title: Getting familiar with Amazon Alexa Development.
   id: 3
-  description: mtw-ui-quizzing.md
+  description: alexaTutorial.md
 - project: Mind The Word
   title: Fix console errors on start-up
   id: 4
@@ -101,14 +101,14 @@ tasks:
   title: Write a blog about features in mind the word
   id: 7
   description: mtw-blog.md
-- project: Mind The Word
-  title: Add video tutorials for advanced settings
+- project: Slagora
+  title: Create a beautiful html response page for successful user signup
   id: 8
-  description: mtw-video-tutorials.md
-- project: Social Street Smart
-  title: Improve UI to display result of Fake news on Facebook
+  description: successfulUserSignupPage.md
+- project: Slagora
+  title: Create a beautiful html response page for successful team signup
   id: 9
-  description: SSS_FB.md
+  description: successfulTeamSignupPage.md
 - project: Social Street Smart
   title: Making pop up functional
   id: 10
@@ -133,14 +133,14 @@ tasks:
   title: Getting familiar with Google Assistant Development
   id: 15
   description: tutorial.md
-- project: Starcross Android
-  title: Write Unit Test cases
+- project: Aossie Scholar
+  title: Create a logo for Aossie Scholar
   id: 16
-  description: starcrossUnitTest.md
-- project: Starcross Android
-  title: Create a new logo for the app
+  description: scholarlogo.md
+- project: Aossie Scholar
+  title: Improve UI of the homepage.
   id: 17
-  description: starcrossNewLogo.md
+  description: popupform.md
 - project: Starcross Android
   title: Create push notification
   id: 18
@@ -173,37 +173,5 @@ tasks:
   title: Manage Landscape Layout and improve Progress Bar.
   id: 25
   description: landscape.md
-- project: Agora Vote Android
-  title:  Use Espresso to write concise, beautiful, and reliable Android UI tests.
-  id: 26
-  description: espresso.md
-- project: CarbonFootprint-Alexa
-  title: Adding more utterances to all the intents of Alexa skill.
-  id: 27
-  description: addUtteranceAlexa.md
-- project: CarbonFootprint-Alexa
-  title: Getting familiar with Amazon Alexa Development.
-  id: 28
-  description: alexaTutorial.md
-- project: Aossie Scholar
-  title: Create a logo for Aossie Scholar
-  id: 29
-  description: scholarlogo.md
-  project: Aossie Scholar
-  title: Improve UI of the homepage.
-  id: 30
-  description: popupform.md
-  project: Aossie Scholar
-  title: Propose a new metric for evaluations of scholars
-  id: 31
-  description: newScholarMetric.md
-- project: Slagora
-  title: Create a beautiful html response page for successful user signup
-  id: 32
-  description: successfulUserSignupPage.md
-  project: Slagora
-  title: Create a beautiful html response page for successful team signup
-  id: 33
-  description: successfulTeamSignupPage.md
 
 
