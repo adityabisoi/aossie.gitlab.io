@@ -5,4 +5,4 @@ Customised loader in the shape of leaf/ anything related to nature which will im
 
 **Tags** react-native
 
-**Categories** Design
+**Categories** Design/Coding
