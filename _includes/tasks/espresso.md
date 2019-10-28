@@ -7,4 +7,4 @@ Testing is an important part of any software. Use Espresso to write concise, bea
 
 - **Tags:** Java
 
-- **Categories:** Coding
+- **Categories:** Coding/Quality Assurance
