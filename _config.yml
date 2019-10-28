@@ -197,6 +197,13 @@ tasks:
   title: Propose a new metric for evaluations of scholars
   id: 31
   description: newScholarMetric.md
-
+- project: Slagora
+  title: Create a beautiful html response page for successful user signup
+  id: 32
+  description: successfulUserSignupPage.md
+  project: Slagora
+  title: Create a beautiful html response page for successful team signup
+  id: 33
+  description: successfulTeamSignupPage.md
 
 
