@@ -8,4 +8,4 @@ Currently on user signup the application simply displays a simple message in jso
 
 - **Tags:**  HTML, CSS, Scala, Play framework
 
-- **Categories:** Coding
+- **Categories:** Coding/Design
