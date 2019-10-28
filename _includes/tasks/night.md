@@ -5,4 +5,4 @@ Just a gamification feature, with the night mode we may use dark colors in the b
 
 **Tags** react-native
 
-**Categories** Design
+**Categories** Design/Coding
