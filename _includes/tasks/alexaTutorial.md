@@ -7,4 +7,4 @@ Using the documentation given online, [build a basic Alexa skill,](https://devel
 
 - **Tags:**  node.js, Amazon Developer Portal, Amazon Alexa, AWS lambda
 
-- **Categories:** Coding, Beginner
+- **Categories:** Coding/Beginner/Outreach
