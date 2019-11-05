@@ -78,11 +78,11 @@ tasks:
   id: 1
   description: espresso.md
 - project: CarbonFootprint-Alexa
-  title: Adding more utterances to all the intents of Alexa skill.
+  title: Adding more utterances to all the intents of Alexa Skill.
   id: 2
-  description: addUtteranceAlexa.md
+  description: alexaTest.md
 - project: CarbonFootprint-Alexa
-  title: Getting familiar with Amazon Alexa Development.
+  title: Add some unit tests for Alexa Skill.
   id: 3
   description: alexaTutorial.md
 - project: Mind The Word
